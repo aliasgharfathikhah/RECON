@@ -1,5 +1,6 @@
 # RECON
 This program can find important information from the desired site.<br>
+I used this tool to get https://google.com information.<br>
 Next, I will explain how to use this program:<br>
 For this program to work for you, first install these libraries:<br>
 pip install whois<br>
@@ -26,3 +27,4 @@ pip install selenium<br>
 5: Port.html : The open ports of the desired site are stored in this file.<br>
 6: Regex.html : The phone numbers and emails found from the subdomains of the desired site are stored in this file.<br>
 7: screenshot.png : In this file, the screenshot taken from the desired site is saved.<br>
+# Note: The function of finding subdomain links of depth 2 has been commented because it is time-consuming.
