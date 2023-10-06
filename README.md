@@ -28,3 +28,5 @@ pip install selenium<br>
 6: Regex.html : The phone numbers and emails found from the subdomains of the desired site are stored in this file.<br>
 7: screenshot.png : In this file, the screenshot taken from the desired site is saved.<br>
 # Note: The function of finding subdomain links of depth 2 has been commented because it is time-consuming.
+<br>
+(☞ﾟヮﾟ)☞ FATHI ☜(ﾟヮﾟ☜) 
